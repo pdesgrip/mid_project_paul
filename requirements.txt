@@ -1,0 +1,4 @@
+ File "C:\Users\desgr\sync\Iron Hack\week_5\Mid_bootcamp_project\env\Lib\site-packages\pip\_internal\operations\build\metadata_legacy.py", line 71, in generate_metadata
+    raise MetadataGenerationFailed(package_details=details) from error
+pip._internal.exceptions.MetadataGenerationFailed: metadata generation failed
+(env) (base) PS C:\Users\desgr\sync\Iron Hack\week_5\Mid_bootcamp_project>
